@@ -11,6 +11,9 @@ body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neu
   border-radius: 12px;
   box-shadow: 0 6px 20px rgba(16,42,67,0.08);
   text-align: center;
+  background-image: url(https://media.istockphoto.com/id/156594823/photo/lush-green-grass-with-blue-sky-background.jpg?s=612x612&w=0&k=20&c=OqqP7WzYS0ugODu7TkzrhDz9IHCJaGVkTstGgKXQ5rg=);
+  background-position: center;
+  background-size: cover;
 }
 
 #message { font-size: 1.6rem; margin-bottom: 18px; }
